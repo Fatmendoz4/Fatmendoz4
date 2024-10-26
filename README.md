@@ -1,4 +1,14 @@
-<h1 align>PORTAFOLIO DE TRABAJOS</h1>
-<h2>Aqui se podran abservar todos los trabajos que he realizado</h2>
-<p align="center"> <img src="https://github.com/Fatmendoz4/Fatmendoz4/blob/main/af40fac4fbb59b4acbc43d239373d9aa.jpg"/> </p>
-<p align="left"> <img src="ruta"/> </p>
+# Fatima Yuritzi Mendoza López
+### Programadora para Entornos Virtuales y Negocios Digitales
+## Descripción General
+Estudiante de Entornos Virtuales y Negocios Digitales con pasión por el desarrollo de proyectos digitales y entornos virtuales. Me especializo en la creación de soluciones innovadoras y en la programación aplicada a la industria de los videojuegos y la tecnología digital.
+## Datos de Contacto
+- **Correo:** [tu_email@ejemplo.com](mailto:tu_email@ejemplo.com)
+- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com)
+- **GitHub:** [Tu Nombre de Usuario](https://github.com/tu_usuario)
+
+## Habilidades y Tecnologías
+- **Lenguajes de Programación:** Python, JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js
+- **Bases de Datos:** MySQL, MongoDB
+- **Otros:** Git, GitHub, Docker
