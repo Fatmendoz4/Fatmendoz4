@@ -35,5 +35,5 @@ Soy una desarrolladora y artista de videojuegos apasionada por la creación de e
     <td width="50%>
       <h3 align="center">The GAP</h3>
   <div align="center">
-    <a href="" target="_blank""><imgsrc="https://github.com/Fatmendoz4/Fatmendoz4/blob/main/salon%20de%20la%20justicia%203.png"/>
+    <a href="" target="_blank"><img src="https://github.com/Fatmendoz4/Fatmendoz4/blob/main/salon%20de%20la%20justicia%203.png" width="400" alt="videojuego"></a>
 </table>
